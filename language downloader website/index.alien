@@ -1,1 +1,47 @@
-
+<صفحة> 
+	<راس>
+		<متغير ترميز = "utf-8"> 
+		<عنوان> أهلا بالعالم </عنوان>
+		<ملف ع = "ملف_تصميم" رابط = "css/style.css">
+		<ملف ع = "icon" رابط = "img/logo.ico">
+	</راس>
+	
+	<جسم>
+		<حاوي تصنيف = "header">
+			<حاوي تصنيف = "logo_header">
+				<صورة مصدر = "img/logo.png" تصنيف = "logo">
+				<ع2 عنوان = "text"> Alien </ع2>
+			</حاوي>
+		</حاوي>
+		<رابط رابط = "https://www.mediafire.com/file/96cb2pzlk84xhv8/Alien_Installer.EXE/file">
+			<زر تصنيف = "download"> Download </زر>
+		</رابط>
+		<حاوي تصنيف = "grid_container">
+			<حاوي تصنيف = "grid_element">
+				<رابط رابط = "https://www.youtube.com/channel/UCQcMIKxZE12VOkI5RloEuVQ">
+					<صورة مصدر = "img/image1.jpg" تصنيف = "portfolio">
+					<ع2> Tutorial series </ع2>
+				</رابط>
+			</حاوي>
+			<حاوي>
+				<رابط رابط = "https://github.com/CSzido/Alien">
+					<صورة مصدر = "img/image2.jpg"  تصنيف = "portfolio">
+					<ع2> Develop Language </ع2>
+				</رابط>
+			</حاوي>
+			<حاوي>
+				<رابط رابط = "https://cszido.github.io/worldlang/">
+					<صورة مصدر = "img/image3.jpg"  تصنيف = "portfolio">
+					<ع2> WorldLang </ع2>
+				</رابط>
+			</حاوي>
+			<حاوي>
+				<رابط رابط = "https://cszido.github.io/myportfolio/">
+					<صورة مصدر = "img/image4.jpg"  تصنيف = "portfolio">
+					<ع2> My personal website </ع2>
+				</رابط>
+			</حاوي>
+		</حاوي>
+		<سكريبت مصدر = "js/main.js"></سكريبت>
+	</جسم>
+</صفحة> 
