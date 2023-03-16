@@ -1,3 +1,3 @@
-- [x] Download Language
+- [x] Download Language Page ✨✔
 - [ ] Login Page Project
 - [ ] Landing Page Project
