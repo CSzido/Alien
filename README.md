@@ -1,6 +1,6 @@
 # Alien
 Alien Main Repo
 
-https://cszido.github.io/AlienLang/img/logo.png
+![Alien Logo](https://cszido.github.io/AlienLang/img/logo.png)
 
 #projects
